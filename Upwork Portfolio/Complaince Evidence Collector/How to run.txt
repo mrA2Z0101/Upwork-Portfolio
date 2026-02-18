@@ -1,0 +1,2 @@
+Insert command in the command prompt in the directory of the audit.py file
+python audit.py --output out
