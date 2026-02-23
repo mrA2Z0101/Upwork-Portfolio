@@ -32,7 +32,7 @@ This project demonstrates practical skills in Python programming, data manipulat
 
 ### 1. Clone the repository
 
-git clone https://github.com/mrA2Z0101/budget_dashboard.git
+git clone https://github.com/mrA2Z0101/Upwork-Portfolio/tree/main/budget_dashboard
 cd budget_dashboard  
 
 ### 2. Create a virtual environment (recommended)
@@ -124,3 +124,4 @@ Aaron Zajicek
 Computer Information Systems Graduate  
 
 Python Automation & Data Analytics  
+
