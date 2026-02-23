@@ -1,0 +1,31 @@
+Date,Category,Note,Amount,Type
+2025-01-01,Income,Paycheck,3200,Income
+2025-01-02,Housing,Rent,1200,Expense
+2025-01-03,Utilities,Electric Bill,145,Expense
+2025-01-05,Food,Grocery Store,185.32,Expense
+2025-01-06,Transportation,Gas Station,62.41,Expense
+2025-01-08,Utilities,Internet Bill,89.99,Expense
+2025-01-10,Food,Restaurant,54.27,Expense
+2025-01-12,Entertainment,Streaming Subscription,15.99,Expense
+2025-01-15,Income,Paycheck,3200,Income
+2025-01-16,Food,Grocery Store,176.43,Expense
+2025-01-18,Transportation,Car Insurance,142.00,Expense
+2025-01-20,Food,Coffee Shop,9.75,Expense
+2025-01-22,Utilities,Phone Bill,78.50,Expense
+2025-01-25,Shopping,Clothing Store,134.99,Expense
+2025-01-28,Food,Restaurant,67.12,Expense
+2025-02-01,Income,Paycheck,3200,Income
+2025-02-02,Housing,Rent,1200,Expense
+2025-02-04,Utilities,Electric Bill,150.20,Expense
+2025-02-06,Food,Grocery Store,193.88,Expense
+2025-02-08,Transportation,Gas Station,58.92,Expense
+2025-02-12,Entertainment,Movie Theater,32.00,Expense
+2025-02-24,Health,Gym Membership,45.00,Expense2026-02-22,Food,,96.0,Income
+2026-02-22,Food,,10.0,Expense
+2026-02-22,Food,,10.0,Income
+2026-02-22,Food,,10.0,Expense
+2026-02-22,Food,,10.0,Income
+2026-02-22,Food,,10.0,Income
+2026-02-22,Food,,10.0,Income
+2026-02-22,Food,,10.0,Income
+2026-02-23,Food,Pizza,10.0,Expense
